@@ -1,0 +1,19 @@
+# ROS 2
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code databases
+*.vc.db
+*.vc.db-shm
+*.vc.db-wal
+*.vc.db.lock
+
+# Secrets
+.env
+.env.*
