@@ -4,7 +4,6 @@
 
 ROS 2 기반 로봇 소프트웨어 개발을 학습하고 실습 코드를 기록하는 저장소입니다. ROS 2의 노드 및 토픽 통신부터 센서 데이터 처리, 시뮬레이션, 이후 SLAM과 Nav2를 활용한 자율주행까지 단계적으로 학습하는 것을 목표로 합니다.
 
-> 학습 참고: 패스트캠퍼스 **「자율주행 로봇을 위한 ROS 2 & Nav 2 한번에 끝내기」** ([강의 소개](https://fastcampus.co.kr/data_online_selfdriving)). 아래의 '학습 로드맵'은 강의 커리큘럼을 바탕으로 정리했으며, 모두 구현 완료했다는 뜻은 아닙니다.
 
 ## 개발 환경
 
@@ -102,12 +101,5 @@ ros2 topic info /scan_raw
 - Nav2 기반 경로 계획 및 장애물 회피
 - 학습 결과, 실행 화면, 문제 해결 과정을 README에 지속적으로 기록
 
-## 참고 자료
-
-- [ROS 2 Humble 공식 문서](https://docs.ros.org/en/humble/)
-- [Nav2 공식 문서](https://docs.nav2.org/)
-- [패스트캠퍼스 ROS 2 & Nav 2 강의 소개](https://fastcampus.co.kr/data_online_selfdriving)
-
----
 
 이 저장소는 ROS 2 및 자율주행 로봇 개발 학습 내용을 정리하는 개인 실습 기록입니다.
